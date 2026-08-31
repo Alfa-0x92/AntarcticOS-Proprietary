@@ -1,1 +1,2 @@
 # AOS-Proprietary_Binaries
+Config_Use_Proprietary_Packages
